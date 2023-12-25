@@ -1,0 +1,10 @@
+body{
+    margin-top: 20vh;
+    padding: 10vh;
+    text-align: center;
+    background-color: black;
+}
+.container{
+    font-style: sans-serif;
+    color: #800080;
+}
